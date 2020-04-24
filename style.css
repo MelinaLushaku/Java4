@@ -1,0 +1,235 @@
+.style{
+   width: 500px;
+   height: 0 auto;
+   margin: auto;
+   
+
+}
+.part-one{
+ background-image: url('foto1.jpg');
+ 
+width:500px; 
+ background-size: 100%;
+ height: 200px;
+ text-align: center;
+ color:white;
+
+ 
+ margin-top: 30px;
+
+
+}
+.shade {
+    display: flex;
+ position: absolute;
+ justify-content: center;
+ flex-direction: column;
+    
+   line-height: 80%;
+  
+   background: rgba(32, 32, 173, 0.7);
+   width: 500px;
+   height: 200px;
+  }
+ 
+  .butoni1{
+      color:white;
+    border-radius: 12px;
+    background-color: rgba(48, 48, 134, 0.822);
+  }
+  
+  .butoni2{
+    color:white;
+   border-radius: 12px;
+   background-color: rgb(209, 52, 209);
+  }
+  .part-two{
+      text-align: center;
+  }
+  .three-parts{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      font-family: Arial, Helvetica, sans-serif;
+      color:rgba(48, 48, 134, 0.822);
+
+  }
+  .vijat{
+     
+     display:flex;
+     flex-direction: row;
+     list-style-type: none;
+     font-size: 30px;
+     padding-left: 230px ;
+  }
+  .vijat li:hover{
+      color:blue;
+  }
+  .part-three{
+    background-image: url('foto2.jpg');
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: 100%;
+    height: 150px;
+    text-align: center;
+    color:white;
+    
+    
+    margin-top: 30px;
+   
+  }
+  .shade2 {
+    display: flex;
+ position: absolute;
+ justify-content: center;
+ flex-direction: column;
+    
+   line-height: 80%;
+  
+   background: rgba(32, 32, 173, 0.7);
+   width: 500px;
+   height: 150px;
+    
+   
+  }
+ .part-four{
+     padding-top: 20px;
+     height: 100px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     line-height: 80%;
+ }
+ h4{
+     color:black;
+ }
+ #icons{
+    width: 20px;
+    height: 20px;
+ }
+ #letters{
+    font-size: 9px;
+    color:rgba(48, 48, 134, 0.822);
+    
+ }
+ .part-five{
+   
+   height: 250px;
+   background-color: lightgrey;
+   display: flex;
+   justify-content: space-around;
+   flex-direction: row;
+   font-family: Arial, Helvetica, sans-serif; 
+ }
+ .part-six{
+    height: 250px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 80%;
+
+ }
+ .team{
+ display: flex;
+ justify-content: space-around;
+ flex-direction: row;
+
+ }
+ #fotoP{
+   width:70px;
+   height: 70px;
+ }
+ #name{
+  color:rgba(48, 48, 134, 0.822); 
+ }
+ #letter{
+   font-size: 9px;
+ }
+ .sociale{
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   
+ }
+ #r{
+   width:15px;
+   height: 15px;
+ }
+ .part-seven{
+  background-image: url('foto1.jpg');
+  
+  font-family: Arial, Helvetica, sans-serif;
+  background-size: 100%;
+  height: 300px;
+  text-align: center;
+  color:white;
+  
+  
+  margin-top: 50px;
+ 
+ }
+ .shade3 {
+  display: flex;
+position: absolute;
+justify-content: space-between;
+flex-direction: row;
+  
+ 
+
+ background: rgba(32, 32, 173, 0.7);
+ width:500px;
+ height: 300px;
+ font-family: Arial, Helvetica, sans-serif; 
+ 
+}
+.perqindjet{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  
+}
+.chart{
+  width:150px;
+  height: 8px;
+  border: 1px;
+  background-color: white;
+  margin-left: 30px;
+ 
+}
+.inside1{
+  background-color:  rgba(2, 2, 87, 0.7); 
+  width:30%;
+  height:8px;
+}
+.inside2{
+  background-color: rgba(2, 2, 87, 0.7); 
+  width:20%;
+  height:8px;
+}
+.inside3{
+  background-color: rgba(2, 2, 87, 0.7); 
+  width:50%;
+  height:8px;
+}
+#tekstiPerqindjes{
+  margin-left: 30px;
+  font-size:10px;
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+#tekstett{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#titulli{
+  display:flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+ 
+}
